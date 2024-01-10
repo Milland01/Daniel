@@ -1,2 +1,2 @@
-# Daniel
-testing project
+print ("hello")
+
